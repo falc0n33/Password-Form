@@ -1,1 +1,1 @@
-Password-Form
+PasswordForm
